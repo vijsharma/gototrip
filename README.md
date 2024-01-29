@@ -1,2 +1,1 @@
-# gototrip
-project
+# tripraja

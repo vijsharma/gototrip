@@ -1,0 +1,68 @@
+[2023-06-01 21:42:59] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "River Cruise Tour on the Seine was updated to Publish by Yash",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/public\/images\/avatar.png\" alt=\"Yash\">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/public\/admin\/module\/tour?id=16",
+    "idNotification": "f30cec39-7211-46ea-8402-499327df8ee5",
+    "socket": null
+}  
+[2023-06-01 21:42:59] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "River Cruise Tour on the Seine was updated to Publish by Yash",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/public\/images\/avatar.png\" alt=\"Vendor 01\">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/public\/user\/tour?id=16",
+    "idNotification": "8d63bdd4-6570-4e6e-8981-ad6108264fe8",
+    "userId": 1,
+    "socket": null
+}  
+[2023-06-01 21:45:14] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "River Cruise Tour on the Seine was updated to Publish by Yash",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/public\/images\/avatar.png\" alt=\"Yash\">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/public\/admin\/module\/tour?id=16",
+    "idNotification": "6a348b69-b77e-48f6-ab1a-cfd303e4865b",
+    "socket": null
+}  
+[2023-06-01 21:45:14] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "River Cruise Tour on the Seine was updated to Publish by Yash",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/public\/images\/avatar.png\" alt=\"Vendor 01\">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/public\/user\/tour?id=16",
+    "idNotification": "cc6c1beb-69ca-434e-948c-7841a7b3264a",
+    "userId": 1,
+    "socket": null
+}  
+[2023-06-01 21:52:41] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "River Cruise Tour on the Seine was updated to Publish by Yash",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/public\/images\/avatar.png\" alt=\"Yash\">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/public\/admin\/module\/tour?id=16",
+    "idNotification": "26a24b13-a97c-48fd-bb4e-9da9c8f40bb0",
+    "socket": null
+}  
+[2023-06-01 21:52:41] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "River Cruise Tour on the Seine was updated to Publish by Yash",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/public\/images\/avatar.png\" alt=\"Vendor 01\">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/public\/user\/tour?id=16",
+    "idNotification": "eb4ca4b8-7d1b-45be-bcae-33e78e6fc263",
+    "userId": 1,
+    "socket": null
+}  
+[2023-06-01 22:11:47] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "River Cruise Tour on the Seine was updated to Publish by Yash",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/public\/images\/avatar.png\" alt=\"Yash\">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/public\/admin\/module\/tour?id=16",
+    "idNotification": "57434c2c-23f4-436f-bd82-bd9244ad8f01",
+    "socket": null
+}  
+[2023-06-01 22:11:47] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "River Cruise Tour on the Seine was updated to Publish by Yash",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/public\/images\/avatar.png\" alt=\"Vendor 01\">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/public\/user\/tour?id=16",
+    "idNotification": "2e98368b-2e4e-4e03-a6c3-d729add857f1",
+    "userId": 1,
+    "socket": null
+}  

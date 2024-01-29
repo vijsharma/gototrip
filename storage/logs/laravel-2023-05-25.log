@@ -1,0 +1,136 @@
+[2023-05-25 09:37:18] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Cannes and Antibes Night Tour was updated to Publish by goanyash@gmail.com ",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/images\/avatar.png\" alt=\"goanyash@gmail.com \">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/admin\/module\/tour?id=15",
+    "idNotification": "dee9adfc-ec00-4f34-a113-04116cd76254",
+    "socket": null
+}  
+[2023-05-25 09:37:18] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-4] with payload:
+{
+    "message": "Cannes and Antibes Night Tour was updated to Publish by goanyash@gmail.com ",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/images\/avatar.png\" alt=\"Kaytlyn Alvapriya\">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/user\/tour?id=15",
+    "idNotification": "9dcd3a2e-f0ec-4dcb-ad0a-0c2b34b204fa",
+    "userId": 4,
+    "socket": null
+}  
+[2023-05-25 11:26:56] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Cannes and Antibes Night Tour was updated to Publish by goanyash@gmail.com ",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/images\/avatar.png\" alt=\"goanyash@gmail.com \">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/admin\/module\/tour?id=15",
+    "idNotification": "a6d6ff31-f0d5-4acc-9912-55ab2b9082cc",
+    "socket": null
+}  
+[2023-05-25 11:26:56] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-4] with payload:
+{
+    "message": "Cannes and Antibes Night Tour was updated to Publish by goanyash@gmail.com ",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/images\/avatar.png\" alt=\"Kaytlyn Alvapriya\">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/user\/tour?id=15",
+    "idNotification": "d4c23296-b30f-4e2b-b56b-37dc74e7da23",
+    "userId": 4,
+    "socket": null
+}  
+[2023-05-25 11:27:39] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Cannes and Antibes Night Tour was updated to Publish by goanyash@gmail.com ",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/images\/avatar.png\" alt=\"goanyash@gmail.com \">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/admin\/module\/tour?id=15",
+    "idNotification": "7221429e-777e-41c0-93cc-4804c563be60",
+    "socket": null
+}  
+[2023-05-25 11:27:39] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-4] with payload:
+{
+    "message": "Cannes and Antibes Night Tour was updated to Publish by goanyash@gmail.com ",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/images\/avatar.png\" alt=\"Kaytlyn Alvapriya\">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/user\/tour?id=15",
+    "idNotification": "b4cd0392-055d-4d22-a4e2-f25ac0eb34fe",
+    "userId": 4,
+    "socket": null
+}  
+[2023-05-25 12:11:32] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Cannes and Antibes Night Tour was updated to Publish by goanyash@gmail.com ",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/images\/avatar.png\" alt=\"goanyash@gmail.com \">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/admin\/module\/tour?id=15",
+    "idNotification": "431b248b-1dd1-4583-8ca6-9c542ed216ff",
+    "socket": null
+}  
+[2023-05-25 12:11:32] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-4] with payload:
+{
+    "message": "Cannes and Antibes Night Tour was updated to Publish by goanyash@gmail.com ",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/images\/avatar.png\" alt=\"Kaytlyn Alvapriya\">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/user\/tour?id=15",
+    "idNotification": "be4b13b0-5891-4909-97ff-1874eabc6ae5",
+    "userId": 4,
+    "socket": null
+}  
+[2023-05-25 12:12:02] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Cannes and Antibes Night Tour was updated to Publish by goanyash@gmail.com ",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/images\/avatar.png\" alt=\"goanyash@gmail.com \">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/admin\/module\/tour?id=15",
+    "idNotification": "b5ca2c7f-2aea-4039-aba2-6d944b71e32f",
+    "socket": null
+}  
+[2023-05-25 12:12:02] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-4] with payload:
+{
+    "message": "Cannes and Antibes Night Tour was updated to Publish by goanyash@gmail.com ",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/images\/avatar.png\" alt=\"Kaytlyn Alvapriya\">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/user\/tour?id=15",
+    "idNotification": "648552dd-80a9-4da6-adc0-474af3ba829e",
+    "userId": 4,
+    "socket": null
+}  
+[2023-05-25 12:25:46] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Cannes and Antibes Night Tour was updated to Publish by goanyash@gmail.com ",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/images\/avatar.png\" alt=\"goanyash@gmail.com \">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/admin\/module\/tour?id=15",
+    "idNotification": "d98b0733-fb40-48ed-bee8-464d920b212a",
+    "socket": null
+}  
+[2023-05-25 12:25:46] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-4] with payload:
+{
+    "message": "Cannes and Antibes Night Tour was updated to Publish by goanyash@gmail.com ",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/images\/avatar.png\" alt=\"Kaytlyn Alvapriya\">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/user\/tour?id=15",
+    "idNotification": "1366afc0-5a74-4a60-a53e-cc9ba039b334",
+    "userId": 4,
+    "socket": null
+}  
+[2023-05-25 12:26:32] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Cannes and Antibes Night Tour was updated to Publish by goanyash@gmail.com ",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/images\/avatar.png\" alt=\"goanyash@gmail.com \">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/admin\/module\/tour?id=15",
+    "idNotification": "d8571c4e-8a1e-4f5b-bef7-39294859b0ea",
+    "socket": null
+}  
+[2023-05-25 12:26:32] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-4] with payload:
+{
+    "message": "Cannes and Antibes Night Tour was updated to Publish by goanyash@gmail.com ",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/images\/avatar.png\" alt=\"Kaytlyn Alvapriya\">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/user\/tour?id=15",
+    "idNotification": "5232dd65-0a90-4c7e-b6a7-daff1b739b27",
+    "userId": 4,
+    "socket": null
+}  
+[2023-05-25 12:28:34] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Cannes and Antibes Night Tour was updated to Publish by goanyash@gmail.com ",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/images\/avatar.png\" alt=\"goanyash@gmail.com \">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/admin\/module\/tour?id=15",
+    "idNotification": "9a53bbd8-e90c-4d69-95c0-49669b7a6e2e",
+    "socket": null
+}  
+[2023-05-25 12:28:34] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-4] with payload:
+{
+    "message": "Cannes and Antibes Night Tour was updated to Publish by goanyash@gmail.com ",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/images\/avatar.png\" alt=\"Kaytlyn Alvapriya\">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/user\/tour?id=15",
+    "idNotification": "d4f0b2ab-f3f5-4e36-81d6-07a6fc1aecf6",
+    "userId": 4,
+    "socket": null
+}  

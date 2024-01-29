@@ -1,0 +1,34 @@
+[2023-05-17 19:54:20] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "River Cruise Tour on the Seine was updated to Publish by goanyash@gmail.com ",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/images\/avatar.png\" alt=\"goanyash@gmail.com \">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/admin\/module\/tour?id=16",
+    "idNotification": "38f439a5-2024-48d6-b8c5-6276dd346b6d",
+    "socket": null
+}  
+[2023-05-17 19:54:20] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "River Cruise Tour on the Seine was updated to Publish by goanyash@gmail.com ",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/images\/avatar.png\" alt=\"Vendor 01\">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/user\/tour?id=16",
+    "idNotification": "e96c2241-1403-4047-a76a-c330fce7f427",
+    "userId": 1,
+    "socket": null
+}  
+[2023-05-17 19:55:06] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "River Cruise Tour on the Seine was updated to Publish by goanyash@gmail.com ",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/images\/avatar.png\" alt=\"goanyash@gmail.com \">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/admin\/module\/tour?id=16",
+    "idNotification": "104e1381-d144-4297-8878-a488500073b2",
+    "socket": null
+}  
+[2023-05-17 19:55:06] production.INFO: Broadcasting [App\Events\PusherNotificationPrivateEvent] on channels [user-channel-1] with payload:
+{
+    "message": "River Cruise Tour on the Seine was updated to Publish by goanyash@gmail.com ",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/images\/avatar.png\" alt=\"Vendor 01\">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/user\/tour?id=16",
+    "idNotification": "c966b357-dc48-43c0-ae23-973d9d67bf4b",
+    "userId": 1,
+    "socket": null
+}  

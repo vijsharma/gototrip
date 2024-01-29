@@ -1,0 +1,24 @@
+[2023-07-18 23:27:10] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Event of Washington, D.C. Highlights was updated to Publish by Yash",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/images\/avatar.png\" alt=\"Yash\">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/admin\/module\/event?id=12",
+    "idNotification": "0abac568-7763-4cd4-adbc-777009f047a1",
+    "socket": null
+}  
+[2023-07-18 23:27:29] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Event of Washington, D.C. Highlights was updated to Publish by Yash",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/images\/avatar.png\" alt=\"Yash\">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/admin\/module\/event?id=12",
+    "idNotification": "623feabd-64a1-4ad6-8791-3806a74f7370",
+    "socket": null
+}  
+[2023-07-18 23:27:43] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Event of Washington, D.C. Highlights was updated to Publish by Yash",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/images\/avatar.png\" alt=\"Yash\">",
+    "link": "https:\/\/tr-tester.exploragoa.com\/admin\/module\/event?id=12",
+    "idNotification": "f2674fbf-59bc-45cd-8240-80ef47bd5c86",
+    "socket": null
+}  
