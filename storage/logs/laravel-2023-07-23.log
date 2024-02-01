@@ -1,8 +1,0 @@
-[2023-07-23 21:08:12] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
-{
-    "message": "Redac Gateway Hotel was updated to Publish by Yash",
-    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/tr-tester.exploragoa.com\/images\/avatar.png\" alt=\"Yash\">",
-    "link": "https:\/\/tr-tester.exploragoa.com\/admin\/module\/hotel?id=43",
-    "idNotification": "124e4068-ba1a-4d41-9155-ebe211a245aa",
-    "socket": null
-}  

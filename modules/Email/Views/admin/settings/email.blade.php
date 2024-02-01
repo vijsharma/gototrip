@@ -17,10 +17,10 @@
                             </select>
                         </div>
                     </div>
-                    <div data-operator="or" data-condition="email_driver:is(smtp),email_driver:is(sendmail),email_driver:is(mailgun),email_driver:is(postmark),email_driver:is(ses),email_driver:is(sparkpost)">
+                    <div data-operator="or" data-condition="email_driver:is(smtp),email_driver:is(sendmail),email_driver:is(mailgun),email_driver:is(postmark),email_driver:is(ses),email_driver:is(sparkpost),email_driver:is(zoho)">
 
                         <hr>
-                        <div data-operator="or" data-condition="email_driver:is(smtp),email_driver:is(sendmail)">
+                        <div data-operator="or" data-condition="email_driver:is(smtp),email_driver:is(sendmail),email_driver:is(zoho)">
                             <div class="form-group">
                                 <label>{{__('Email Host')}}</label>
                                 <div class="form-controls">
@@ -210,6 +210,7 @@
             </div>
         </div>
     </div>
+    
 </div>
 @push('js')
     <script>

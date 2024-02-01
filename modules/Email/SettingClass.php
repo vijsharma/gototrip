@@ -6,7 +6,7 @@ use Modules\Core\Abstracts\BaseSettingsClass;
 class SettingClass extends BaseSettingsClass
 {
     const EMAIL_DRIVER=[
-        "mail","smtp", "sendmail", "mailgun",  "ses","sparkpost", "postmark", "log", "array"
+        "mail","smtp", "sendmail", "mailgun", "zoho" ,"ses","sparkpost", "postmark", "log", "array"
     ];
     public static function getSettingPages()
     {
